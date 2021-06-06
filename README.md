@@ -1,11 +1,10 @@
 <h2 align="center">👋🏼 Hello there! </h2>
 
-My name is Maeva Guiho-Saïdali (Ghsdl) and I'm a code newbie. I'm from France, living near Nantes, and currently studying at Ecole O'clock to become a Software Engineer. You can find me on [Twitter][1], or on [LinkedIn][2]. I’m interested in all things Javascript. 👀 
+My name is Maeva Guiho-Saïdali (Ghsdl) and I'm a code newbie. I'm from France, living near Nantes, and currently studying at Ecole O'clock to become a Software Engineer. You can find me on [LinkedIn][1]. I’m interested in all things Javascript. 👀 
 
 <!-- Links to your social media accounts -->
 
-[1]: https://twitter.com/deco2euse
-[2]: https://www.linkedin.com/in/maeva-ghsdl/
+[1]: https://www.linkedin.com/in/maeva-ghsdl/
 
 <!---
 ghsdl/ghsdl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
