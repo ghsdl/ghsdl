@@ -1,6 +1,6 @@
 <h2 align="center">👋🏼 Hello there! </h2>
 
-My name is Maeva Guiho-Saïdali (Ghsdl) and I'm a code newbie. I'm from France, living near Nantes, and currently studying at Ecole O'clock to become a Software Engineer. You can find me on [LinkedIn][1]. I’m interested in all things Javascript. 👀 
+My name is Maeva Guiho-Saïdali (Ghsdl) and I'm a code enthusiast. I'm from France, living near Nantes, and currently studying at Ecole O'clock to become a Software Engineer. You can find me on [LinkedIn][1]. I’m interested in all things Javascript. 👀 
 
 <!-- Links to your social media accounts -->
 
