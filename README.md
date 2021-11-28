@@ -12,12 +12,6 @@ You can click the Preview link to take a look at your changes.
 
 --->
 
-<h2 align="center"> Blog and writing ✍🏼 </h2>
-
-Apart from coding, I also maintain a blog where I'm documenting my learning process from january to july 2021. You can find my blog posts (in french) on my website at [Code is a place on earth][3].
-
-[3]: https://codeisaplaceonearth.fr/
-
 <h2 align="center">  👩🏼‍💻 Technologies and tools </h2>
 
 ![](https://img.shields.io/badge/Editor-VSC-informational??style=for-the-badge&logo=Visual-Studio-Code&logoColor=white&color=ff69b4)
