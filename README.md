@@ -14,7 +14,7 @@
 
 <!-- About me section -->
 <p align="center">
-My name is Maeva Guiho-Saïdali and I'm a code enthusiast currently over-React-ing. I'm from France :baguette_bread:, living near Nantes. After attending a 6 months bootcamp I realized coding was perfect for me and became a Software Engineer. I’m interested in all things Javascript :smiling_face_with_three_hearts:. My pronouns are she/her.
+My name is Maeva Guiho-Saïdali and I'm a code enthusiast currently over-React-ing. I'm from France :baguette_bread:, living near Nantes. After attending a 6 months bootcamp I realized coding was perfect for me and became a Software Engineer in 2021. I’m interested in all things Javascript :smiling_face_with_three_hearts:. My pronouns are she/her.
 </p>
   
 <br>
